@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeDemo</string>
+    <string name="text">显示资源中的文字</string>
+</resources>
