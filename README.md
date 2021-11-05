@@ -5,6 +5,7 @@ DemoApp下载地址：[传送门](https://test-1254170634.cos.ap-nanjing.myqclou
 <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/62e44936c51046b39fef652731842e6d~tplv-k3u1fbpfcp-watermark.image" width="150px" height="150px"/>
 
 Gitee：[传送门](https://gitee.com/Rickyal/compose-demo)</br>
+图片失效请点击[Blog](https://juejin.cn/post/6985902991454765093)查看</br>
 Demo效果：
 
 <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ef091446d8a43bf8e704f526f2a1e35~tplv-k3u1fbpfcp-watermark.image" width="300px" height="50%"/>
